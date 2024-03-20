@@ -8,3 +8,6 @@
 - **layout.tsx :** A wrapper that is applied to all pages accessed throught that route. A root layout.tsx is mandatory and is applied to all the pages of the site
 - Link
 - usePathName
+- deploying to vercel
+- connecting with postgres on vercel
+- seeding data to postgres (created a script seed.js and added to scripts in package json to run via npm run seed)
